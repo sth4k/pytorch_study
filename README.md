@@ -10,6 +10,12 @@ https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials
 
 Basically they are to save the computation cost when you use RNN structure for variable lengths. similar to tensorflow dynamic_rnn
 
-example here https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial
+example here 
 
-explained here https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch
+https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial
+
+https://stackoverflow.com/questions/49203019/how-to-use-pack-padded-sequence-with-multiple-variable-length-input-with-the-sam
+
+explained here 
+
+https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch
